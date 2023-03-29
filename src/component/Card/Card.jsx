@@ -19,7 +19,7 @@ const Card = (props) => {
 
 const BodyApp = () => {
   return (
-    <>
+    <>``
       <Card Data={RepData[0]} />
       <Card Data={RepData[1]} />
       <Card Data={RepData[2]} />
